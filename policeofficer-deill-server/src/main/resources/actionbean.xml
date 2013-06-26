@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+    <action reqid="1001" class="com.scjinruan.policeofficer.deill.actions.UserAction" method="register"/>
+</actions>
